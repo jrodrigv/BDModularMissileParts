@@ -250,3 +250,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/BDModularMissileParts/BDModularMissileParts/Distribution/GameData/BDModularMissileParts/ProceduralTextures/BDNoseCone.psd
+/BDModularMissileParts/BDModularMissileParts/Distribution/GameData/BDModularMissileParts/ProceduralTextures/BDMissileSRB.psd
+/BDModularMissileParts/BDModularMissileParts/Distribution/GameData/BDModularMissileParts/ProceduralTextures/BDExplosive.psd
+/BDModularMissileParts/BDModularMissileParts/LocalDev
