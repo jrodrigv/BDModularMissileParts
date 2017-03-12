@@ -2,6 +2,8 @@
 
 This a BDArmory procedural parts pack that allows you to build your own missiles!
 
+Please read the Wiki for detailed information about Modular Missiles.
+
 Requirements:
 - BDArmory from https://github.com/PapaJoesSoup/BDArmory/releases
 - ProceduralParts from https://github.com/Swamp-Ig/ProceduralParts/releases
