@@ -1,2 +1,5 @@
+v1.1
+- Adding the Mk1 Launch tube for Modular missiles (Thanks SpannerMonkey!)
+
 v1.0
 - First release

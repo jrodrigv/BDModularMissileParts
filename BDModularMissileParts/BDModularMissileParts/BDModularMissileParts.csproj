@@ -45,6 +45,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Distribution\GameData\BDModularMissileParts\BDModularMissileParts.version" />
+    <None Include="Distribution\GameData\BDModularMissileParts\Parts\Mk1LaunchTube\MMmk1Tube.cfg" />
+    <None Include="Distribution\GameData\BDModularMissileParts\Parts\Mk1LaunchTube\MMmk1Tube.mu" />
+    <None Include="Distribution\GameData\BDModularMissileParts\Parts\Mk1LaunchTube\MMmk1Tube_TweakScale.cfg" />
+    <None Include="Distribution\GameData\BDModularMissileParts\Parts\Mk1LaunchTube\MMmk1Tube_TweakScale.cfg" />
     <None Include="Distribution\GameData\BDModularMissileParts\Parts\ProceduralHighExplosive.cfg" />
     <None Include="Distribution\GameData\BDModularMissileParts\Parts\ProceduralMissileCore.cfg" />
     <None Include="Distribution\GameData\BDModularMissileParts\Parts\ProceduralMissileSRB.cfg" />
@@ -52,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Distribution\GameData\BDModularMissileParts\ChangeLog.txt" />
+    <Content Include="Distribution\GameData\BDModularMissileParts\Parts\Mk1LaunchTube\MM MK1.png" />
     <Content Include="Distribution\GameData\BDModularMissileParts\ProceduralTextures\BDExplosive.dds" />
     <Content Include="Distribution\GameData\BDModularMissileParts\ProceduralTextures\BDMissileSRB.dds" />
     <Content Include="Distribution\GameData\BDModularMissileParts\ProceduralTextures\BDNoseCone.dds" />
