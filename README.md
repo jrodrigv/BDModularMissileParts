@@ -6,7 +6,7 @@ Please read the Wiki for detailed information about Modular Missiles.
 
 Requirements:
 - BDArmory from https://github.com/PapaJoesSoup/BDArmory/releases
-- ProceduralParts from https://github.com/Swamp-Ig/ProceduralParts/releases
+- ProceduralParts from https://github.com/Starwaster/ProceduralParts/releases
 
 Highly recommended for missile winglets
 - https://github.com/Crzyrndm/B9-PWings-Fork/releases
