@@ -1,2 +1,5 @@
+v2.0
+- Recompiled for KSP 1.8.1
+
 v1.0
 - First release
